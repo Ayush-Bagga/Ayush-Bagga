@@ -80,4 +80,9 @@ I have built multiple data-driven projects including a Banking Loan Analysis Das
 ## 📈 Goals
 - To become a Data Analyst  
 - To build impactful real-world data projects  
-- To improve skills in data analysis, visualization, and storytelling  
+- To improve skills in data analysis, visualization, and storytelling
+
+---
+
+## Resume
+- 📄 Resume: [View Here](https://github.com/Ayush-Bagga/Ayush-Bagga/blob/main/Ayush_Bagga_Resume.pdf)

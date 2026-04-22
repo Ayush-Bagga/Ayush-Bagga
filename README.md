@@ -55,7 +55,7 @@ I enjoy working with structured data, cleaning and transforming datasets, and cr
 ---
 
 ## 📄 Resume
-👉 [View Resume](https://github.com/Ayush-Bagga/Ayush-Bagga/blob/main/Ayush_Bagga_Resume.pdf)
+📄 Resume: [View Here](https://github.com/Ayush-Bagga/Ayush-Bagga/blob/main/AYUSH_BAGGA_DS.pdf)
 
 ---
 

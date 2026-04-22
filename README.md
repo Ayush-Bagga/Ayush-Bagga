@@ -60,6 +60,7 @@ I have built multiple data-driven projects including a Banking Loan Analysis Das
 - Processed and analyzed 800+ rows of stock market data  
 - Performed data cleaning and reporting  
 - Built dashboard for performance tracking  
+👉 [View Project](https://github.com/Ayush-Bagga/stock-market-analysis-and-portfolio-optimization)
 
 ---
 

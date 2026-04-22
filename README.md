@@ -1,48 +1,38 @@
 # Hi, I'm Ayush Bagga 👋
 
-🎓 BCA Graduate (Data Science Specialization)  
-📊 Aspiring Data Analyst  
+💼 Data Analyst | SQL | Power BI | Python | Excel  
 
 ---
 
 ## 🚀 About Me
-I am a BCA graduate specializing in Data Science with hands-on experience in data analysis, dashboard development, and data visualization using Power BI, SQL, and Excel. I enjoy working with data to uncover insights, build interactive dashboards, and solve real-world problems.  
+I am a Data Analyst fresher with hands-on experience in building interactive dashboards, performing data analysis, and deriving actionable insights using SQL, Python, Excel, and Power BI.  
 
-I have built multiple data-driven projects including a Banking Loan Analysis Dashboard with KPI tracking, risk analysis, and what-if scenario modeling. I am currently focused on strengthening my skills and building impactful projects in data analytics.
+I enjoy working with structured data, cleaning and transforming datasets, and creating dashboards that help in better decision-making. I have worked on real-world projects involving loan risk analysis, customer segmentation, and stock market analytics.
 
 ---
 
 ## 💻 Skills
 
 ### 🔹 Technical Skills
-- Power BI  
-- SQL  
-- Python (Basics)  
-- Excel  
-- MS Office  
+- SQL (SELECT, JOIN, GROUP BY, Subqueries)  
+- Power BI (Dashboards, Data Visualization, Basic DAX)  
+- Python (Pandas, NumPy, Matplotlib)  
+- Excel (Data Cleaning, Pivot Tables, XLOOKUP, Charts)  
 
-### 🔹 Data & Analytics Skills
+### 🔹 Core Concepts
 - Data Cleaning  
-- Data Handling  
-- Data Validation  
+- Exploratory Data Analysis (EDA)  
 - Data Visualization  
-- Reporting  
-- Dashboard Development  
-- Record Management  
-
-### 🔹 Core Strengths
-- Attention to Detail  
-- Accuracy  
-- Problem Solving  
-- Structured Working  
+- Data Reporting  
+- Descriptive Statistics  
+- Data Validation  
 
 ---
 
 ## 📊 Projects
 
-### 🔹 Banking Loan Analysis Dashboard
-- Cleaned and transformed raw banking dataset using Power Query  
-- Built interactive dashboards with KPIs, charts, and slicers  
+### 🔹 Banking Loan Risk Analysis Dashboard
+- Built interactive Power BI dashboard with KPIs, charts, and slicers  
 - Analyzed loan approval trends, default rates, and risk categories  
 - Developed a loan affordability calculator using What-if parameters  
 👉 [View Project](https://github.com/Ayush-Bagga/Banking-Loan-Analysis-Dashboard)
@@ -50,25 +40,22 @@ I have built multiple data-driven projects including a Banking Loan Analysis Das
 ---
 
 ### 🔹 Customer Segmentation Analysis
-- Worked with 500+ customer records for data cleaning and analysis  
-- Identified patterns in structured customer data  
-- Created visual reports for insights and tracking  
+- Analyzed 500+ customer records using SQL and Python  
+- Performed EDA to identify patterns and trends  
+- Segmented customers based on behavior and spending  
 
 ---
 
-### 🔹 Stock Market Analysis
-- Processed and analyzed 800+ rows of stock market data  
-- Performed data cleaning and reporting  
-- Built dashboard for performance tracking  
+### 🔹 Stock Market Analysis & Portfolio Optimization
+- Analyzed 800+ rows of stock market data using Python  
+- Calculated returns, volatility, and portfolio performance  
+- Built Power BI dashboard for stock insights
 👉 [View Project](https://github.com/Ayush-Bagga/stock-market-analysis-and-portfolio-optimization)
 
 ---
 
-## 🛠️ Tools & Technologies
-- Power BI  
-- SQL  
-- Python  
-- Excel  
+## 📄 Resume
+👉 [View Resume](https://github.com/Ayush-Bagga/Ayush-Bagga/blob/main/Ayush_Bagga_Resume.pdf)
 
 ---
 
@@ -78,12 +65,7 @@ I have built multiple data-driven projects including a Banking Loan Analysis Das
 
 ---
 
-## 📈 Goals
-- To become a Data Analyst  
+## 🎯 Goals
+- To start my career as a Data Analyst  
 - To build impactful real-world data projects  
-- To improve skills in data analysis, visualization, and storytelling
-
----
-
-## Resume
-📄 Resume: [View Here](https://github.com/Ayush-Bagga/Ayush-Bagga/blob/main/AYUSH_BAGGA_DS.pdf)
+- To improve skills in data analysis and visualization  

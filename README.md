@@ -85,4 +85,4 @@ I have built multiple data-driven projects including a Banking Loan Analysis Das
 ---
 
 ## Resume
-- 📄 Resume: [View Here](https://github.com/Ayush-Bagga/Ayush-Bagga/blob/main/Ayush_Bagga_Resume.pdf)
+📄 Resume: [View Here](https://github.com/Ayush-Bagga/Ayush-Bagga/blob/main/AYUSH_BAGGA_DS.pdf)
